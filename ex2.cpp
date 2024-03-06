@@ -13,14 +13,11 @@
 #include "ex2.h"
 
 void ex2::ready() {
-    // memory.clear();
-    // trump.clear();
     trump.clear();
     hand.sort(myCardCmp);
 }
 
 //大富豪におけるカードの切り方のアルゴリズム
-//自身の担当箇所
 bool ex2::follow(const GameStatus &gstat, CardSet &cs) {
     CardSet pile(gstat.pile);
     Card tmp;
