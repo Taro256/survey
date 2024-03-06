@@ -116,7 +116,7 @@ class CardSet {
     // 文字列化
     std::string toString() const;
     
-    // 集合操作関数 等 (added by Teigo Nakamura)
+    // 集合操作関数 等 
     bool member(Card c) const;           // c が集合の要素かどうか判定(要素のとき true)
     bool subsetof(const CardSet &cs);    // 自身が cs の部分集合かどうか判定(部分集合のとき true)
     bool equal(const CardSet &cs);       // 自身と cs が集合として等しいかどうか判定(等しい集合のとき true)
