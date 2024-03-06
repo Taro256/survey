@@ -1,5 +1,5 @@
 //
-//  simpleplayer.h
+//  ex2.h
 //  PlayingCard
 //
 
@@ -12,7 +12,7 @@
 #include "gamestatus.h"
 
 //
-// Player クラスを継承して作成するクラスのサンプル
+// Player クラスを継承して作成するクラス
 //
 class ex2 : public Player {
     CardSet memory;  // 色々覚えておくための作業用
