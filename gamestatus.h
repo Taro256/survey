@@ -1,9 +1,6 @@
 //
 // GameStatus.h
 //
-//  Created on: 2015/05/07
-//      Author: sin
-//
 
 #ifndef _GAMESTATE_H_
 #define _GAMESTATE_H_

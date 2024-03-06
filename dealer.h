@@ -2,11 +2,6 @@
 //  Dealer.h
 //  PlayingCard
 //
-//  Created by 下薗 真一 on 09/04/12.
-//  Copyright 2009 __MyCompanyName__. All rights reserved.
-//
-//  Modified by Teigo Nakamura in 2013.
-//
 
 #ifndef _DEALER_H_
 #define _DEALER_H_
